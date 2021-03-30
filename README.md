@@ -1,2 +1,4 @@
-# BoardPhotosRecognition
-Simple utility to recognize photos of whiteboard and other photos and move them to appropriate folder
+# Board Photos Recognition
+Simple utility which runs through folder of photos and recognize photos of whiteboard and move them to appropriate folder.
+
+Mainly for personal use and as a test of FastAI ML library.
